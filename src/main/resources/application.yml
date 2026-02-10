@@ -7,17 +7,18 @@ spring:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/placementgo
-    username: postgres
-    password: placementgo
+    username: root
+    password: root
 
   jpa:
     hibernate:
-      ddl-auto: validate
+      ddl-auto: update
     show-sql: true
     properties:
       hibernate:
         format_sql: true
 
-  flyway:
-    enabled: true
-    baseline-on-migrate: true
+#will do this later right now only local testing okay bro
+#  flyway:
+#    enabled: true
+#    baseline-on-migrate: true

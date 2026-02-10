@@ -1,7 +1,7 @@
-package Resume.controller;
+package com.placementgo.backend.Resume.controller;
 
-import Resume.model.Resume;;
-import Resume.service.ResumeService;
+import com.placementgo.backend.Resume.model.Resume;;
+import com.placementgo.backend.Resume.service.ResumeService;
 
 import lombok.RequiredArgsConstructor;
 
