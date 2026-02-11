@@ -1,7 +1,7 @@
-package com.placementgo.referral.repository;
+package com.placementgo.backend.referral.repository;
 
-import com.placementgo.referral.entity.ReferralTemplate;
-import com.placementgo.referral.enums.TemplateType;
+import com.placementgo.backend.referral.entity.ReferralTemplate;
+import com.placementgo.backend.referral.enums.TemplateType;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

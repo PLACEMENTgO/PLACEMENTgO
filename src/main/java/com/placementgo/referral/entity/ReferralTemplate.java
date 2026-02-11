@@ -1,6 +1,6 @@
-package com.placementgo.referral.entity;
+package com.placementgo.backend.referral.entity;
 
-import com.placementgo.referral.enums.TemplateType;
+import com.placementgo.backend.referral.enums.TemplateType;
 import jakarta.persistence.*;
 import lombok.Data;
 

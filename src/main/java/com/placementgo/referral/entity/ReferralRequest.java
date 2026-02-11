@@ -1,4 +1,4 @@
-package com.placementgo.referral.entity;
+package com.placementgo.backend.referral.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

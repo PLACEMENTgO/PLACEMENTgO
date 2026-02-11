@@ -1,4 +1,4 @@
-package com.placementgo.referral.dto;
+package com.placementgo.backend.referral.dto;
 
 import lombok.Builder;
 import lombok.Data;

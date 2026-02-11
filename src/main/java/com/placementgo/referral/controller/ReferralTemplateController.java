@@ -1,6 +1,6 @@
-package com.placementgo.referral.controller;
+package com.placementgo.backend.referral.controller;
 
-import com.placementgo.referral.service.ReferralTemplateService;
+import com.placementgo.backend.referral.service.ReferralTemplateService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

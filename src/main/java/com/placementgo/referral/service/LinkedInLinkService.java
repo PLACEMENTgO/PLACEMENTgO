@@ -1,4 +1,4 @@
-package com.placementgo.referral.service;
+package com.placementgo.backend.referral.service;
 
 import org.springframework.stereotype.Service;
 

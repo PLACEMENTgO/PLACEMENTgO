@@ -1,7 +1,7 @@
-package com.placementgo.referral.service;
+package com.placementgo.backend.referral.service;
 
-import com.placementgo.referral.dto.ReferralTemplateResponse;
-import com.placementgo.referral.repository.ReferralTemplateRepository;
+import com.placementgo.backend.referral.dto.ReferralTemplateResponse;
+import com.placementgo.backend.referral.repository.ReferralTemplateRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

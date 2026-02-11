@@ -1,13 +1,13 @@
-package com.placementgo.referral.service;
+package com.placementgo.backend.referral.service;
 
-import com.placementgo.referral.dto.CreateReferralRequest;
-import com.placementgo.referral.dto.CreateReferralResponse;
-import com.placementgo.referral.dto.ReferralSummaryResponse;
-import com.placementgo.referral.entity.ReferralRequest;
-import com.placementgo.referral.entity.ReferralTemplate;
-import com.placementgo.referral.enums.TemplateType;
-import com.placementgo.referral.repository.ReferralRequestRepository;
-import com.placementgo.referral.repository.ReferralTemplateRepository;
+import com.placementgo.backend.referral.dto.CreateReferralRequest;
+import com.placementgo.backend.referral.dto.CreateReferralResponse;
+import com.placementgo.backend.referral.dto.ReferralSummaryResponse;
+import com.placementgo.backend.referral.entity.ReferralRequest;
+import com.placementgo.backend.referral.entity.ReferralTemplate;
+import com.placementgo.backend.referral.enums.TemplateType;
+import com.placementgo.backend.referral.repository.ReferralRequestRepository;
+import com.placementgo.backend.referral.repository.ReferralTemplateRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

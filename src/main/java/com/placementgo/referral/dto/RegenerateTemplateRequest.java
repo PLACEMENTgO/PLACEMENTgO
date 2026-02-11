@@ -1,6 +1,6 @@
-package com.placementgo.referral.dto;
+package com.placementgo.backend.referral.dto;
 
-import com.placementgo.referral.enums.TemplateType;
+import com.placementgo.backend.referral.enums.TemplateType;
 import lombok.Data;
 
 @Data

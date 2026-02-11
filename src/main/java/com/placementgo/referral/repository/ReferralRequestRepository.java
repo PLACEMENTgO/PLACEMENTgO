@@ -1,6 +1,6 @@
-package com.placementgo.referral.repository;
+package com.placementgo.backend.referral.repository;
 
-import com.placementgo.referral.entity.ReferralRequest;
+import com.placementgo.backend.referral.entity.ReferralRequest;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
